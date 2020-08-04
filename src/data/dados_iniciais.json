@@ -1,0 +1,89 @@
+{
+  "categorias": [
+    {
+      "titulo": "Clips - Orgânico e Natural - 2016",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Clips da banda",
+        "url": "https://www.youtube.com/watch?v=T4Md1-jV-3c&list=PL6iNdx_lZ507kShMwlxbq5I__6Xg1RkV0"
+      },
+      "videos": [
+        {
+          "titulo": "Mergulhar - #OrganicoENatural",
+          "url": "https://www.youtube.com/watch?v=T4Md1-jV-3c"
+        },
+        {
+          "titulo": "Canção para Laura - #OrganicoENatural",
+          "url": "https://www.youtube.com/watch?v=09ecup_mChI"
+        },
+        {
+          "titulo": "Levante #ConverseRubberTracks",
+          "url": "https://www.youtube.com/watch?v=8MWc5TbE8ro"
+        }      
+      ]
+    },
+    {
+      "titulo": "Clips - Re-Evolution - 2014",
+      "cor": "#ff4444",
+      "link_extra": {
+        "text": "Clips da banda",
+        "url": "https://www.youtube.com/watch?v=T4Md1-jV-3c&list=PL6iNdx_lZ507kShMwlxbq5I__6Xg1RkV0"
+      },
+      "videos": [
+        {
+          "titulo": "Re-Evolution #ReEvolution",
+          "url": "https://www.youtube.com/watch?v=DXWPheC4BfI"
+        },
+        {
+          "titulo": "Start From Zero #ReEvolution",
+          "url": "https://www.youtube.com/watch?v=2MRHUnRDFSc"
+        },
+        {
+          "titulo": "Ride My Bike #ReEvolution",
+          "url": "https://www.youtube.com/watch?v=HRVJl5kRMMw"
+        }
+      ]
+    },
+    {
+      "titulo": "Clips - Jerseys EP - 2013",
+      "cor": "black",
+      "link_extra": {
+        "text": "Clips da banda",
+        "url": "https://www.youtube.com/watch?v=T4Md1-jV-3c&list=PL6iNdx_lZ507kShMwlxbq5I__6Xg1RkV0"
+      },
+      "videos": [
+        {
+          "titulo": "Word and Honor #JerseysEP",
+          "url": "https://www.youtube.com/watch?v=HiqgLQxXoD8"
+        },
+        {
+          "titulo": "Punk Rock Song/Hate Hate Hate #JerseysEP",
+          "url": "https://www.youtube.com/watch?v=ILPyaDxB6JE"
+        },
+        {
+          "titulo": "Promise Land #JerseysEP",
+          "url": "https://www.youtube.com/watch?v=E5ho_75lxWw"
+        }
+      ]
+    },
+    {
+      "titulo": "Full Albums",
+      "cor": "red",
+      "link_extra": {
+        "text": "Álbuns Completos da Banda",
+        "url": "https://open.spotify.com/artist/0JulfWmBcPZ9C9aSVRpCEq"
+      },
+      "videos": [
+        {
+          "titulo": "Orgânico e Natural (2016)",
+          "url": "https://www.youtube.com/watch?v=4XteCIJow0U"
+        },
+        {
+          "titulo": "Jerseys EP (2013)",
+          "url": "https://www.youtube.com/watch?v=7gaqmhF84HQ"
+        }
+      ]
+    }
+  ]
+}
