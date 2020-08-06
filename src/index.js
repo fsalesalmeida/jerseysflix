@@ -6,8 +6,7 @@ import Home from './pages/home';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import CadastroVideo from './pages/cadastro/video';
 import CadastroCategoria from './pages/cadastro/categoria';
-
-const Pagina404 = () => (<div>Pagina 404</div>)
+import Page404 from './pages/errors/404';
 
 ReactDOM.render(
   <BrowserRouter>
@@ -15,7 +14,7 @@ ReactDOM.render(
       <Route path="/" component={Home} exact />
       <Route path="/cadastro/video" component={CadastroVideo} />
       <Route path="/cadastro/categoria" component={CadastroCategoria} />
-      <Route component={Pagina404} />
+      <Route component={Page404} />
     </Switch>
   </BrowserRouter>,
 
